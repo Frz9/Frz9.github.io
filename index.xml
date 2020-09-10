@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Firaaz Pervez</title>
+    <link>https://www.example.com/</link>
+    <description>Recent content on Firaaz Pervez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>MIT</copyright>
+    
+	<atom:link href="https://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>https://www.example.com/cv/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/cv/</guid>
+      <description>Experience Trainee Cloud Engineer | Amazon Web Services | Generation UK Full time, June 2020 - September 2020
+ Learned to build and administer scalable and cost-aware solutions using tools and core services such as VPC, EC2, Load balancers, RDS, Route 53, S3 along with troubleshooting throughout. Learned fundamentals of computer science, networking, security and programming. Worked in the Linux terminal of virtual machines as well as the AWS console. Achieved good results despite little prior technical knowledge.</description>
+    </item>
+    
+  </channel>
+</rss>
