@@ -2,7 +2,6 @@ theme = "bento"
 languageCode = "en-us"
 baseurl = "https://www.example.com/"
 title = "Firaaz Pervez"
-publishDir = "docs"
 
 
 author = "Firaaz Pervez"
@@ -24,7 +23,7 @@ disqusShortname = "bento-hugo-theme"
 # Hightlight theme
 [markup.highlight]
   style = "github"
-
+#
 # Allow HTML rendering inside markdown
 [markup.goldmark.renderer]
   unsafe = true
@@ -44,7 +43,7 @@ disqusShortname = "bento-hugo-theme"
 
   # Social media usernames
   github = "Frz9"
-  linkedin = "https://linkedin.com/in/XXXX"
+  #linkedin = "https://linkedin.com/in/XXXX"
   email = "firaaz.pervez.fp@gmail.com"
 
   # Avatar (shown in the homepage)
@@ -56,12 +55,18 @@ disqusShortname = "bento-hugo-theme"
 # Items in the top menu
 [menu]
   [[menu.main]]
-      name = "CV"
-      url = "/cv"
-      weight = 1
+      name = "Home"
+      url = "/"
+      weight = 2
+
 
   [[menu.main]]
-      name = "Projects"
-      url = "/projects"
+      name = "CV"
+      url = "/CV/"
       weight = 1
+
+#  [[menu.main]]
+#      name = "Projects"
+#      url = "/projects"
+#      weight = 0
 
