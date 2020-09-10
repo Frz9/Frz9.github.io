@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Firaaz Pervez</title>
@@ -8,7 +7,7 @@
     <language>en-us</language>
     <copyright>MIT</copyright>
     
-	<atom:link href="https://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.example.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,8 +16,39 @@
       <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.example.com/cv/</guid>
-      <description>Experience Trainee Cloud Engineer | Amazon Web Services | Generation UK Full time, June 2020 - September 2020
- Learned to build and administer scalable and cost-aware solutions using tools and core services such as VPC, EC2, Load balancers, RDS, Route 53, S3 along with troubleshooting throughout. Learned fundamentals of computer science, networking, security and programming. Worked in the Linux terminal of virtual machines as well as the AWS console. Achieved good results despite little prior technical knowledge.</description>
+      <description>&lt;h1 id=&#34;experience&#34;&gt;Experience&lt;/h1&gt;
+&lt;h3 id=&#34;trainee-cloud-engineer--amazon-web-services--generation-uk&#34;&gt;Trainee Cloud Engineer | Amazon Web Services | Generation UK&lt;/h3&gt;
+&lt;p&gt;(June 2020 - September 2020)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Learned to build and administer scalable, cost-efficient solutions using core AWS tools such as VPC, Lambda, EC2, RDS, Route 53, S3&lt;/li&gt;
+&lt;li&gt;Learned the fundamentals of networking, databases, security and programming (Python)&lt;/li&gt;
+&lt;li&gt;Became very familiar with using Linux&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;operations-assistant--efg-harris-allday&#34;&gt;Operations Assistant | EFG Harris Allday&lt;/h3&gt;
+&lt;p&gt;(07 October 2019 - 29 November 2019)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Primarily responsible for Unit Trust fund settlement&lt;/li&gt;
+&lt;li&gt;Production of daily and periodic settlement reports to monitor any failed and unmatched funds, discrepancies are analysed and investigated in a timely manner&lt;/li&gt;
+&lt;li&gt;Accurately processing security trades, delivery versus payment (DVP), within specified market settlement deadlines, to ensure prompt settlement with market counterparts&lt;/li&gt;
+&lt;li&gt;Processing payments to relevant fund managers, handling correspondence and organising future trades&lt;/li&gt;
+&lt;li&gt;Liaising with the compliance department regarding the status of AML documentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
+&lt;h3 id=&#34;ba-hons-history--university-of-warwick&#34;&gt;BA (Hons) History | University of Warwick&lt;/h3&gt;
+&lt;p&gt;(October 2014 - July 2019)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Critical thinking and analytical skills, able to problem-solve and think creatively&lt;/li&gt;
+&lt;li&gt;Intellectual rigour refined through many pieces of independent research&lt;/li&gt;
+&lt;li&gt;Presented research clearly and persuasively, both orally and in writing&lt;/li&gt;
+&lt;li&gt;Capacity to think objectively, approaching problems and novel situations with an open mind&lt;/li&gt;
+&lt;li&gt;Collaborated and communicated with a diverse range of peers professionally&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;havering-sixth-form-college&#34;&gt;Havering Sixth Form College&lt;/h3&gt;
+&lt;p&gt;(2012 - 2014)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Achieved A-Levels in History (A), Philosophy (A), English Literature (B)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>
