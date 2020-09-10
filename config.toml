@@ -2,6 +2,8 @@ theme = "bento"
 languageCode = "en-us"
 baseurl = "https://www.example.com/"
 title = "Firaaz Pervez"
+publishDir = "docs"
+
 
 author = "Firaaz Pervez"
 copyright = "MIT"
