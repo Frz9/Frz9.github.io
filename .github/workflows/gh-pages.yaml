@@ -1,0 +1,24 @@
+name: github pages deploy
+
+on:
+  push:
+    branches:
+      - master 
+
+jobs:
+  deploy:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Get code 
+        uses: actions/checkout@v2
+      - name: Set up Hugo
+        uses: peaceiris/actions-hugo@v2 # Download and set up Hugo
+        with:
+          hugo-version: "0.74.3"
+      - name: Build
+        run: hugo
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3 # Push the contents of publish_dir to the gh-pages branch.
+        with:
+          github_token: ${{ secrets.PAGES_TOKEN }}
+          publish_dir: public/
