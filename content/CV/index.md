@@ -15,10 +15,10 @@ hideSuggestions = "true"
 ### Trainee Cloud Engineer | Amazon Web Services | Generation UK
 (June 2020 - September 2020)
 
-* Learned to build and administer scalable, cost-efficient solutions using core AWS tools such as VPC, Lambda, EC2, RDS, Route 53, S3 
-* Learned the fundamentals of networking, databases, security and programming (Python)
-* Became very familiar with using Linux 
-
+* Learned how to apply core AWS services in the area of compute, storage and networking, including EC2, S3, IAM, VPC, Lamda, Cloud Formation, RDS and Route 53 
+* Built IT fundamental skills, including: working knowledge of Linux OS, writing scripts in Python and Shell
+* Demonstrated strong verbal and written communication skills, including the ability to explain technical information and terminology to non-technical end users
+* Learned how to configure monitor and support the suite of core AWS services 
 
 ### Operations Assistant | EFG Harris Allday
 (07 October 2019 - 29 November 2019)
